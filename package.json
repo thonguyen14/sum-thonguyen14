@@ -1,0 +1,16 @@
+{
+  "name": "sum-thonguyen14",
+  "version": "1.0.0",
+  "description": "A library that helps you calculate the sum of any 2 numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thonguyen14/sum-thonguyen14"
+  },
+  "keywords": ["sum", "add", "tong", "cong"],
+  "author": "tho nguyen 14",
+  "license": "MIT"
+}
